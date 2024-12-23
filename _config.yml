@@ -13,16 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Web site title"
-email: timwood@gwu.edu
-author: Timothy Wood
+title: "CS 1311: Discrete Math I"
+email: visheshp@seas.upenn.edu
+author: Vishesh Patel
 description: > # this means to ignore newlines until "baseurl:"
-  Course description goes here.
-
+  Mathematics for computer science. Sets, functions, sequences. Propositional and predicate calculus, formal proofs, mathematical induction. Matrices, semigroups, groups, isomorphism. Relations, partitions, equivalence relations, trees, graphs. May be taken for graduate credit by students in fields other than computer science.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://gwcloudlab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  gwcloudlab
+github_username:  gw-cs1311
 
 # destination: ./docs
 
