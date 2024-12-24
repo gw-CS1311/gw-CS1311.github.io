@@ -25,7 +25,7 @@ layout: home
 
 | Date | Topic | Assignments | Instructor
 |:---  |:--- | |:--- | |:--- |
-| Tues Jan 14 | Introduction and Review | | Patel
+| Tues Jan 14 | Introduction and Review | Collaboration Policy Quiz | Patel
 | Lab Jan 13 | Introduction | | TAs
 
 </div>
