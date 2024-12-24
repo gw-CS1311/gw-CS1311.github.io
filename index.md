@@ -25,7 +25,8 @@ layout: home
 
 | Date | Topic | Assignments | Instructor
 |:---  |:--- | |:--- | |:--- |
-| Tues Jan 14 | Introduction and Review | Collaboration Policy Quiz | Patel
-| Lab Jan 13 | Introduction | | TAs
+| Mon Jan 13 | Lab: Introduction | | TAs
+| Tues Jan 14 | Lecture: Introduction and Review | Collaboration Policy Quiz & Homework # 1 | Vishesh
+
 
 </div>
