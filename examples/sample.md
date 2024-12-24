@@ -5,7 +5,7 @@ permalink: /sample/
 ---
 
 **Instructors:** Prof. Vishesh Patel
-**Prerequisites:**  MATH 1220 or MATH 12341 or equivalent (See [undergraduate curriculum](https://www.cs.seas.gwu.edu/bachelor-science-program/))
+**Prerequisites:**  MATH 1220 or MATH 1231 or equivalent (See [undergraduate curriculum](https://www.cs.seas.gwu.edu/bachelor-science-program/))
 
 **Time/Place:**
   * **Class meets Tuesdays and Thursdays 3:45-5PM in DUQUES 151**

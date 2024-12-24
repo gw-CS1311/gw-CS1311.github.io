@@ -14,7 +14,7 @@ layout: home
 </div></div>
 
 
-> Mathematics for computer science. Sets, functions, sequences. Propositional and predicate calculus, formal proofs, mathematical induction. Matrices, semigroups, groups, isomorphism. Relations, partitions, equivalence relations, trees, graphs. May be taken for graduate credit by students in fields other than computer science. Prerequisites: MATH 1220 or MATH 12341 or equivalent.
+> Mathematics for computer science. Sets, functions, sequences. Propositional and predicate calculus, formal proofs, mathematical induction. Matrices, semigroups, groups, isomorphism. Relations, partitions, equivalence relations, trees, graphs. May be taken for graduate credit by students in fields other than computer science. Prerequisites: MATH 1220 or MATH 1231 or equivalent.
 
 
 ## Schedule  ##
