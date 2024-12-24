@@ -9,6 +9,9 @@ permalink: /sample/
 
 **Time/Place:**
   * **Class meets Tuesdays and Thursdays 3:45-5PM in DUQUES 151**
+
+Lecture attendance is mandatory and is a critical portion of the grade. It is highly crucial to attend since recordings will likely not be available for in-person lectures this semester.
+
   * Lab 1 meets Monday: 11:10AM - 12:00PM EST in TOMP 201
   * Lab 2 meets Monday: 02:20PM - 03:10PM EST in TOMP 402
   * Lab 3 meets Monday: 02:20PM - 03:10PM EST in SEH 1300 and SEH 1400
@@ -21,16 +24,21 @@ permalink: /sample/
 
 As a result of completing this course, students will be able to:
 
-See and analyze a problem from a mathematical perspective
+* See and analyze a problem from a mathematical perspective
 
-Convert informal English statements to formal logic statements
+* Convert informal English statements to formal logic statements
 
-Formulate problems in rigorous mathematical terms and concepts such as functions, relations, graphs, trees, and Boolean logic, which are conducive to methodical problem-solving.
-Prove a wide range of mathematical assertions using a variety of proof techniques, including direct and indirect proofs as well as proofs by induction
-Solve recursively defined functions and sequences, with applications to time complexity analysis of algorithms
-Count the numbers of various combinatorial entities, including permutations, arrangements, and combinations, which form a foundation for probability theory and algorithm analysis
-Design basic logical circuits and basic graph algorithms
-Grasp preliminarily certain applications of discrete math to computing such as: algorithmic complexity analysis, digital circuit design and optimization, relational databases, data types, cryptography, AI, etc.
+* Formulate problems in rigorous mathematical terms and concepts such as functions, relations, graphs, trees, and Boolean logic, which are conducive to methodical problem-solving.
+
+* Prove a wide range of mathematical assertions using a variety of proof techniques, including direct and indirect proofs as well as proofs by induction
+
+* Solve recursively defined functions and sequences, with applications to time complexity analysis of algorithms
+
+* Count the numbers of various combinatorial entities, including permutations, arrangements, and combinations, which form a foundation for probability theory and algorithm analysis
+
+* Design basic logical circuits and basic graph algorithms
+
+* Grasp preliminarily certain applications of discrete math to computing such as: algorithmic complexity analysis, digital circuit design and optimization, relational databases, data types, cryptography, AI, etc.
 
 ### Course Staff
 
@@ -75,7 +83,7 @@ The class has four Graduate Teaching Assistants (GTAs) who will be responsible f
 
 ### Textbook and Resources
 
-The textbooks for this course are:
+There is no required or recommended textbook for this course. Textbooks that can be referred to for extra reading are ''Mathematics: A Discrete Introduction'' by E. A. Scheinerman, and ''Discrete Mathematics with Applications'' by Susanna S. Epp.
 
   * **Optional:** [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328) by Susanna S. Epp, Cengage Learning; 5th edition (4th edition is fine too)
 
@@ -96,12 +104,29 @@ There will be a weekly homework due Tuesday before class. To be fair to students
 
 > **If you have a disability that may affect your participation in this course and wish to discuss academic accommodations, please contact us as soon as possible.**
 
+**Submission of Homework:**
+  * All homeworks will be submitted and graded through Gradescope. The Gradescope entry code for this course is G3ZEEP.
+
 **Late work policy:**
   * While deadlines will be enforced barring exceptional circumstances, we will drop the lowest homework grade to account for any unforeseen circumstances, so you can miss one homework without penalty.
 
 **Email policy:** You can send emails to the professors or the GTAs. We will answer most class emails during specific times set aside during the week for this purpose - so do not expect an instantaneous response. 
 
 **Illness policy:** If you are ill and it will cause you to miss class, lab, or an assignment, you should let me know in advance if possible. I cannot extend deadlines unless you provide a note from a doctor. Otherwise, use a late pass.
+
+**Regrade Request policy:** 
+  * Every time we release grades for homeworks, we'll announce a regrade request deadline and it will be apparent on Gradescope. All regrade requests must be submitted before this deadline without exception.
+
+  * In order to submit a regrade request, you will need to get your regrade request approved by a TA during either office hours or at the end of your lab. Regrade requests that have not been approved by a TA will be automatically rejected. Once a TA has looked at your regrade request and acknowledges that the question should be regraded, please submit a regrade request on Gradescope that includes the TA who endorsed your request and an explanation for why you submitted the regrade request.
+
+  * Note: We will always release a rubric for each homework question highlighting what specific things we were looking for in a proof, as well as what specific rubric items you lost points on. While not absolutely necessary, it would help make the regrade request approval process easier if you came with a specific rubric item in mind that you feel your solution adequately addressed.
+
+**Lab Attendance policy:**  
+* Every student will have one lab absence excused for the semester. Additionally, in cases of emergency or conflict, you are allowed to attend a different lab section for the week. This lab swap can only be used twice a semester, so make sure that you are saving them for actual emergencies or conflicts.
+
+* If you'll be attending a different lab for the week, you must email both your official lab TA and the TA of the lab you want to attend at least 24 hours before the lab begins. Any requests made last-minute will automatically be rejected, and any student who attends a lab without letting their TA know will not get attendance credit for that week
+
+* Any subsequent absences beyond the one free drop and the two lab swaps will count as absences and be reflected in your lab attendance grade.
 
 **Academic Integrity policy:** It is very important in this course (and in life), that your work be your own. These guidelines will help you achieve that.
 
