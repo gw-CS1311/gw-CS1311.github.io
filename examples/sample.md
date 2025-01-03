@@ -60,11 +60,6 @@ The class has four Graduate Teaching Assistants (GTAs) who will be responsible f
   Lab: Lab TBD
   Office Hours: Wednesday: 10:30 AM - 12:30 PM EST at the SEH 4000 area
 
-- **Jie Hou**
-  Email: [houjie@email.gwu.edu](mailto:houjie@email.gwu.edu)
-  Lab: Lab TBD
-  Office Hours: TBD
-
 **Learning Assistants:**
 - **Kate Peterson**  
   Email: [kpeterson26@gwu.edu](mailto:kpeterson26@gwu.edu)  
@@ -80,6 +75,15 @@ The class has four Graduate Teaching Assistants (GTAs) who will be responsible f
   Email: [fulmanu@gwu.edu](mailto:fulmanu@gwu.edu)  
   Lab: Lab TBD  
   Office Hours: TBD
+
+- **Ayushi Kriplani**  
+  Email: [ayushikriplani@gwu.edu](mailto:ayushikriplani@gwu.edu)  
+  Lab: Lab TBD  
+  Office Hours: TBD
+
+**Graders:**
+- **Tianfang Feng**
+  Email: [tianfang.fang@gwmail.gwu.edu](mailto:tianfang.fang@gwmail.gwu.edu)
 
 ### Textbook and Resources
 
