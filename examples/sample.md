@@ -47,38 +47,38 @@ The class has four Graduate Teaching Assistants (GTAs) who will be responsible f
 **Graduate Teaching Assistants:**
 - **Gehna Ahuja**  
   Email: [gehna.ahuja@gwmail.gwu.edu](mailto:gehna.ahuja@gwmail.gwu.edu)  
-  Lab: Lab TBD
+  Lab: Lab #4
   Office Hours: Friday: 10:30 AM - 12:30 PM at the SEH 4000 area
 
 - **Boxin	Yang**
   Email: [boxiny@gwmail.gwu.edu](mailto:boxiny@gwmail.gwu.edu)
-  Lab: Lab TBD
+  Lab: Lab #2 and #3
   Office Hours: TBD
 
 - **Divya Sree Vadlamudi**
   Email: [divyasree.vadlamudi@gwmail.gwu.edu](mailto:divyasree.vadlamudi@gwmail.gwu.edu)
-  Lab: Lab TBD
+  Lab: Lab #1
   Office Hours: Wednesday: 10:30 AM - 12:30 PM EST at the SEH 4000 area
 
 **Learning Assistants:**
 - **Kate Peterson**  
   Email: [kpeterson26@gwu.edu](mailto:kpeterson26@gwu.edu)  
-  Lab: Lab TBD
+  Lab: Lab #4
   Office Hours: TBD
 
 - **Edward Bae**  
   Email: [edward.bae@gwmail.gwu.edu](mailto:edward.bae@gwmail.gwu.edu)  
-  Lab: Lab TBD
+  Lab: Lab #2 and #3
   Office Hours: TBD
 
 - **Felix	Ulmanu**  
   Email: [fulmanu@gwu.edu](mailto:fulmanu@gwu.edu)  
-  Lab: Lab TBD  
+  Lab: Lab #2 and #3  
   Office Hours: TBD
 
 - **Ayushi Kriplani**  
   Email: [ayushikriplani@gwu.edu](mailto:ayushikriplani@gwu.edu)  
-  Lab: Lab TBD  
+  Lab: Lab #1
   Office Hours: TBD
 
 **Graders:**
