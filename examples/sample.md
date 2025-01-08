@@ -55,7 +55,7 @@ The class has four Graduate Teaching Assistants (GTAs) who will be responsible f
   Lab: Lab #2 and #3
   Office Hours: Friday: 10:00 AM - 12:00 PM EST on Zoom
   Join Zoom Meeting
-  https://zoom.us/j/92652998502?pwd=aeooD1rh7BJ2Wb4mPB4tYpM4xoVcmL.1
+  <https://zoom.us/j/92652998502?pwd=aeooD1rh7BJ2Wb4mPB4tYpM4xoVcmL.1>
   Meeting ID: 926 5299 8502
   Passcode: 0fq8yE
 
