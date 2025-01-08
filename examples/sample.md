@@ -64,7 +64,7 @@ The class has four Graduate Teaching Assistants (GTAs) who will be responsible f
 - **Kate Peterson**  
   Email: [kpeterson26@gwu.edu](mailto:kpeterson26@gwu.edu)  
   Lab: Lab #4
-  Office Hours:Tuesday: 6:30 - 8:30 PM EST at the SEH 4000 area
+  Office Hours: Monday: 6:00 - 8:00 PM EST at the SEH 4000 area
 
 - **Edward Bae**  
   Email: [edward.bae@gwmail.gwu.edu](mailto:edward.bae@gwmail.gwu.edu)  
