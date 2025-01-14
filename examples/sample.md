@@ -52,7 +52,7 @@ The class has four Graduate Teaching Assistants (GTAs) who will be responsible f
 
 - **Boxin	Yang**
   Email: [boxiny@gwmail.gwu.edu](mailto:boxiny@gwmail.gwu.edu)
-  Lab: Lab #2 and #3
+  Lab: Lab #2
   Office Hours: Friday: 10:00 AM - 12:00 PM EST on [Zoom](https://zoom.us/j/92652998502?pwd=aeooD1rh7BJ2Wb4mPB4tYpM4xoVcmL.1)
   Meeting ID: 926 5299 8502
   Passcode: 0fq8yE
@@ -62,6 +62,11 @@ The class has four Graduate Teaching Assistants (GTAs) who will be responsible f
   Lab: Lab #1
   Office Hours: Monday: 1:00 - 3:00 PM EST at the SEH 4000 area
 
+- **Rana Salama**
+  Email: [raref@email.gwu.edu](mailto:raref@email.gwu.edu)
+  Lab: Lab #3
+  Office Hours: TBD
+
 **Learning Assistants:**
 - **Kate Peterson**  
   Email: [kpeterson26@gwu.edu](mailto:kpeterson26@gwu.edu)  
@@ -70,12 +75,12 @@ The class has four Graduate Teaching Assistants (GTAs) who will be responsible f
 
 - **Edward Bae**  
   Email: [edward.bae@gwmail.gwu.edu](mailto:edward.bae@gwmail.gwu.edu)  
-  Lab: Lab #2 and #3
+  Lab: Lab #2
   Office Hours: Thursday: 5:00 - 7:00 PM EST at the SEH 4000 area
 
 - **Felix	Ulmanu**  
   Email: [fulmanu@gwu.edu](mailto:fulmanu@gwu.edu)  
-  Lab: Lab #2 and #3  
+  Lab: Lab ##3  
   Office Hours: Wednesday: 1:00 PM - 3:00 PM EST at the SEH 4000 area
 
 - **Ayushi Kriplani**  
