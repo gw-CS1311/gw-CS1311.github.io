@@ -25,7 +25,7 @@ layout: home
 | Week | Date         | Topic                                     | Assignments                        | Instructor |
 |------|--------------|-------------------------------------------|-------------------------------------|------------|
 | 1    | Mon Jan 13   | No Lab: First Week                        |                                     | TAs        |
-|      | Tues Jan 14  | Introduction + Logic/Proofs              | Collaboration Policy Quiz + Homework #1 due Jan 21 | Vishesh    |
+|      | Tues Jan 14  | [Introduction]([Introduction](files/Lecture-114-Presentation.pdf))+ Logic/Proofs              | Collaboration Policy Quiz + Homework #1 due Jan 21 | Vishesh    |
 |      | Thurs Jan 16 | Proofs II                                | Collaboration Policy Quiz + Homework #1 due Jan 21 | Vishesh    |
 | 2    | Mon Jan 20   | No Lab (MLK Day)                         |                                     |            |
 |      | Tues Jan 21  | Proofs III                               | Homework #2 due Jan 28             | Vishesh    |
