@@ -48,7 +48,7 @@ The class has four Graduate Teaching Assistants (GTAs) who will be responsible f
 - **Gehna Ahuja**  
   Email: [gehna.ahuja@gwmail.gwu.edu](mailto:gehna.ahuja@gwmail.gwu.edu)  
   Lab: Lab #4
-  Office Hours: Monday: 4:00 PM - 6:00 PM EST at the SEH 4000 area
+  Office Hours: Monday: 9:00 AM - 11:00 AM EST at the SEH 4000 area
 
 - **Boxin	Yang**
   Email: [boxiny@gwmail.gwu.edu](mailto:boxiny@gwmail.gwu.edu)
