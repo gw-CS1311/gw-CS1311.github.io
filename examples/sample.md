@@ -13,7 +13,7 @@ permalink: /sample/
 Lecture attendance is mandatory and is a critical portion of the grade. It is highly crucial to attend since recordings will likely not be available for in-person lectures this semester.
 
   * Lab 1 meets Monday: 11:10AM - 12:00PM EST in TOMP 201
-  * Lab 2 meets Monday: 02:20PM - 03:10PM EST in SEH 1300 and SEH 1400
+  * Lab 2 meets Monday: 02:20PM - 03:10PM EST in TOMP 402
   * Lab 3 meets Monday: 02:20PM - 03:10PM EST in SEH 1300 and SEH 1400
   * Lab 4 meets Monday: 11:10AM - 12:00PM	 EST in TOMP 402
 
