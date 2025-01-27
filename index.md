@@ -29,7 +29,7 @@ layout: home
 |      | Thurs Jan 16 | [Proofs II](assets/files/Lecture116.pdf) | Homework #1 due Jan 21               | Vishesh    |
 | 2    | Mon Jan 20   | No Lab (MLK Day)                         |                                     |            |
 |      | Tues Jan 21  | [Proofs III](assets/files/Lec121.pdf)    | Homework #2 due Jan 28             | Vishesh    |
-|      | Thurs Jan 23 | Introduction to Sets & Counting          | Homework #2 due Jan 28             | Vishesh    |
+|      | Thurs Jan 23 | [Introduction to Sets & Counting](assets/files/Lecture123.pdf)| Homework #2 due Jan 28             | Vishesh    |
 | 3    | Mon Jan 27   | Lab: Proofs and Introduction to Counting |                                     | TAs        |
 |      | Tues Jan 28  | Sets and Counting II                     | Homework #3 due Feb 4              | Vishesh    |
 |      | Thurs Jan 30 | Sets and Counting III                    | Homework #3 due Feb 4              | Vishesh    |
