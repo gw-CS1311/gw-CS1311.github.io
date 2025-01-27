@@ -65,7 +65,7 @@ The class has four Graduate Teaching Assistants (GTAs) who will be responsible f
 - **Rana Salama**
   Email: [raref@email.gwu.edu](mailto:raref@email.gwu.edu)
   Lab: Lab #3
-  Office Hours: Monday: 11:00 - 1:00 PM EST on Zoom.
+  Office Hours: Thursday: 8:00 - 11:00 AM EST on [Zoom](https://us05web.zoom.us/j/5869586216?pwd=d3czaUczQnZxcWZ6ZVU2dG8xakJYQT09).
 
 **Learning Assistants:**
 - **Kate Peterson**  
