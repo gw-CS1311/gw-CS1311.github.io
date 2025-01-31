@@ -32,7 +32,7 @@ layout: home
 |      | Thurs Jan 23 | [Introduction to Sets & Counting](assets/files/Lecture123.pdf)| Homework #2 due Jan 28 | Vishesh    |
 | 3    | Mon Jan 27   | [Lab: Proofs and Introduction to Counting](assets/files/lab1combined.pdf)|    | TAs        |
 |      | Tues Jan 28  | [Sets and Counting II](assets/files/Lecture129.pdf)| Homework #3 due Feb 4              | Vishesh    |
-|      | Thurs Jan 30 | [Sets and Counting III](assets/files/Lecture 130.pdf)| Homework #3 due Feb 4              | Vishesh    |
+|      | Thurs Jan 30 | [Sets and Counting III](assets/files/Lecture130.pdf)| Homework #3 due Feb 4              | Vishesh    |
 | 4    | Mon Feb 3    | Lab: Sets and Counting                   |                                     | TAs        |
 |      | Tues Feb 4   | Sets and Counting IV                     | Homework #4 due Feb 11             | Vishesh    |
 |      | Thurs Feb 6  | Weak Induction                           | Homework #4 due Feb 11             | Vishesh    |
