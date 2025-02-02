@@ -35,15 +35,15 @@ layout: home
 |      | Thurs Jan 30 | [Sets and Counting III](assets/files/Lecture130.pdf)| Homework #3 due Feb 4              | Vishesh    |
 | 4    | Mon Feb 3    | Lab: Sets and Counting                   |                                     | TAs        |
 |      | Tues Feb 4   | Sets and Counting IV                     | Homework #4 due Feb 11             | Vishesh    |
-|      | Thurs Feb 6  | Weak Induction                           | Homework #4 due Feb 11             | Vishesh    |
-| 5    | Mon Feb 10   | Lab: Weak Induction                      |                                     | TAs        |
-|      | Tues Feb 11  | Strong Induction                         | Homework #5 due Feb 18             | Vishesh    |
+|      | Thurs Feb 6  | Sets and Counting V                           | Homework #4 due Feb 11             | Vishesh    |
+| 5    | Mon Feb 10   | Lab: Sets and Counting II                      |                                     | TAs        |
+|      | Tues Feb 11  | Weak Induction                         | Homework #5 due Feb 18             | Vishesh    |
 |      | Thurs Feb 13 | Exam #1 Review Session                   | Homework #5 due Feb 18             | TAs        |
 | 6    | Mon Feb 17   | No Lab: President’s Day                  |                                     |            |
 |      | Tues Feb 18  | Exam #1                                  | Homework #6 due Feb 25             | TAs        |
-|      | Thurs Feb 20 | Introduction to Probability              | Homework #6 due Feb 25             | Vishesh    |
+|      | Thurs Feb 20 | Strong Induction             | Homework #6 due Feb 25             | Vishesh    |
 | 7    | Mon Feb 24   | Lab: Exam #1 Feedback & Strong Induction |                                     | TAs        |
-|      | Tues Feb 25  | Conditional Probability                  | Homework #7 due Mar 4              | Vishesh    |
+|      | Tues Feb 25  | Probability                  | Homework #7 due Mar 4              | Vishesh    |
 |      | Thurs Feb 27 | Random Variables                         | Homework #7 due Mar 4              | Vishesh    |
 | 8    | Mon Mar 3    | Lab: Probability                         |                                     | TAs        |
 |      | Tues Mar 4   | Random Variables II                      | Homework #8 due Mar 18             | Vishesh    |
