@@ -35,7 +35,7 @@ layout: home
 |      | Thurs Jan 30 | [Sets and Counting III](assets/files/Lecture130.pdf)| Homework #3 due Feb 4              | Vishesh    |
 | 4    | Mon Feb 3    | Lab: Sets and Counting                   |                                     | TAs        |
 |      | Tues Feb 4   | [Sets and Counting IV](assets/files/Lecture24.pdf)| Homework #4 due Feb 11             | Vishesh    |
-|      | Thurs Feb 6  | Sets and Counting V                           | Homework #4 due Feb 11             | Vishesh    |
+|      | Thurs Feb 6  | [Sets and Counting V](assets/files/Lecture26.pdf)| Homework #4 due Feb 11             | Vishesh    |
 | 5    | Mon Feb 10   | Lab: Sets and Counting II                      |                                     | TAs        |
 |      | Tues Feb 11  | Weak Induction                         | Homework #5 due Feb 18             | Vishesh    |
 |      | Thurs Feb 13 | Exam #1 Review Session                   | Homework #5 due Feb 18             | TAs        |
