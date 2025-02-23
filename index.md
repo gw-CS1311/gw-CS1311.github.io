@@ -41,7 +41,7 @@ layout: home
 |      | Thurs Feb 13 | Exam #1 Review Session                   | Homework #5 due Feb 18             | TAs        |
 | 6    | Mon Feb 17   | No Lab: President’s Day                  |                                     |            |
 |      | Tues Feb 18  | Exam #1                                  | Homework #6 due Feb 25             | TAs        |
-|      | Thurs Feb 20 | Weak Induction & Strong Induction             | Homework #6 due Feb 25             | Vishesh    |
+|      | Thurs Feb 20 | [Weak Induction & Strong Induction](assets/files/Lecture220.pdf)| Homework #6 due Feb 25             | Vishesh    |
 | 7    | Mon Feb 24   | Lab: Exam #1 Feedback & Strong Induction |                                     | TAs        |
 |      | Tues Feb 25  | Probability                  | Homework #7 due Mar 4              | Vishesh    |
 |      | Thurs Feb 27 | Random Variables                         | Homework #7 due Mar 4              | Vishesh    |
