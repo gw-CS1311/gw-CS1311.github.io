@@ -41,34 +41,34 @@ layout: home
 |      | Thurs Feb 13 | Exam #1 Review Session                   | Homework #5 due Feb 18             | TAs        |
 | 6    | Mon Feb 17   | No Lab: President’s Day                  |                                     |            |
 |      | Tues Feb 18  | Exam #1                                  | Homework #6 due Feb 25             | TAs        |
-|      | Thurs Feb 20 | [Weak Induction & Strong Induction](assets/files/Lecture220.pdf)| Homework #6 due Feb 25             | Vishesh    |
-| 7    | Mon Feb 24   | Lab: Exam #1 Feedback & Strong Induction |                                     | TAs        |
-|      | Tues Feb 25  | Probability                  | Homework #7 due Mar 4              | Vishesh    |
-|      | Thurs Feb 27 | Random Variables                         | Homework #7 due Mar 4              | Vishesh    |
-| 8    | Mon Mar 3    | Lab: Probability                         |                                     | TAs        |
-|      | Tues Mar 4   | Random Variables II                      | Homework #8 due Mar 18             | Vishesh    |
-|      | Thurs Mar 6  | Random Variables III                     | Homework #8 due Mar 18             | Vishesh    |
+|      | Thurs Feb 20 | [Weak Induction](assets/files/Lecture220.pdf)| Homework #6 due Feb 25             | Vishesh    |
+| 7    | Mon Feb 24   | Lab: Exam #1 Feedback  |                                     | TAs        |
+|      | Tues Feb 25  | [Weak Induction II](assets/files/Lecture227.pdf)| Homework #7 due Mar 4              | Vishesh    |
+|      | Thurs Feb 27 | [Strong Induction](assets/files/Lecture227.pdf)| Homework #7 due Mar 4              | Vishesh    |
+| 8    | Mon Mar 3    | Lab: Strong Induction                     |                                     | TAs        |
+|      | Tues Mar 4   | Probaility                                 | Homework #8 due Mar 18             | Vishesh    |
+|      | Thurs Mar 6  | Random Variables I                         | Homework #8 due Mar 18             | Vishesh    |
 | 9    | Mon Mar 10   | No Lab: Spring Break                     |                                     |            |
 |      | Tues Mar 11  | No Lecture: Spring Break                 | Homework #8 due Mar 18             |            |
 |      | Thurs Mar 13 | No Lecture: Spring Break                 | Homework #8 due Mar 18             |            |
-| 10   | Mon Mar 17   | Lab: Random Variables                    |                                     | TAs        |
-|      | Tues Mar 18  | Introduction to Graphs                   | Homework #9 due Mar 25             | Vishesh    |
-|      | Thurs Mar 20 | Trees                                    | Homework #9 due Mar 25             | Vishesh    |
-| 11   | Mon Mar 24   | Lab: Graphs and Trees                    |                                     | TAs        |
-|      | Tues Mar 25  | Spanning Trees                           | Homework #10 due Apr 1             | Vishesh    |
-|      | Thurs Mar 27 | Hamiltonian Cycles and Eulerian Circuits | Homework #10 due Apr 1             | Vishesh    |
-| 12   | Mon Mar 31   | Lab: Advanced Graph Theory               |                                     | TAs        |
+| 10   | Mon Mar 17   | Lab: Probability                         |                                     | TAs        |
+|      | Tues Mar 18  | Random Variables II                      | Homework #9 due Mar 25             | Vishesh    |
+|      | Thurs Mar 20 | Random Variables III                     | Homework #9 due Mar 25             | Vishesh    |
+| 11   | Mon Mar 24   | Lab: Random Variables                   |                                     | TAs        |
+|      | Tues Mar 25  | Introduction to Graphs                   | Homework #10 due Apr 1             | Vishesh    |
+|      | Thurs Mar 27 | Trees                                    | Homework #10 due Apr 1             | Vishesh    |
+| 12   | Mon Mar 31   | Lab:Graphs and Trees                     |                                     | TAs        |
 |      | Tues Apr 1   | Exam #2 Review Session                   |                                     | TAs/Vishesh|
 |      | Thurs Apr 3  | Exam #2                                  |                                     | TAs        |
 | 13   | Mon Apr 7    | Lab: Exam #2 Feedback                    |                                     | TAs        |
-|      | Tues Apr 8   | Graph Coloring                           | Homework #11 due Apr 15            | Vishesh    |
-|      | Thurs Apr 10 | Matchings                                | Homework #11 due Apr 15            | Vishesh    |
-| 14   | Mon Apr 14   | Lab: Graph Coloring                      |                                     | TAs        |
-|      | Tues Apr 15  | Relations                                | Homework #12 due Apr 22            | Vishesh    |
-|      | Thurs Apr 17 | Relations II                             | Homework #12 due Apr 22            | Vishesh    |
+|      | Tues Apr 8   | Spanning Trees                           | Homework #11 due Apr 15            | Vishesh    |
+|      | Thurs Apr 10 | Hamiltonian Cycles and Eulerian Circuits | Homework #11 due Apr 15            | Vishesh    |
+| 14   | Mon Apr 14   | Lab: Advanced Graph Theory               |                                     | TAs        |
+|      | Tues Apr 15  | Graph Coloring                            | Homework #12 due Apr 22            | Vishesh    |
+|      | Thurs Apr 17 | Matchings                              | Homework #12 due Apr 22            | Vishesh    |
 | 15   | Mon Apr 21   | Lab: Graph Coloring                      |                                     | TAs        |
-|      | Tues Apr 22  | Functions                                | Homework #13 due Apr 29            | Vishesh    |
-|      | Thurs Apr 24 | Probabilistic Method                     | Homework #13 due Apr 29            | Vishesh    |
+|      | Tues Apr 22  | Relations                               | Homework #13 due Apr 29            | Vishesh    |
+|      | Thurs Apr 24 | Relations II                             | Homework #13 due Apr 29            | Vishesh    |
 | 16   | Mon Apr 28   | Lab: Final Review Session                |                                     | TAs        |
 | TBD  | May 3 - 9    | Final Exam                               |                                     | TAs        |
 
