@@ -46,14 +46,14 @@ layout: home
 |      | Tues Feb 25  | [Weak Induction II](assets/files/Lecture227.pdf)| Homework #7 due Mar 4              | Vishesh    |
 |      | Thurs Feb 27 | [Strong Induction](assets/files/Lecture227.pdf)| Homework #7 due Mar 4              | Vishesh    |
 | 8    | Mon Mar 3    | Lab: Strong Induction                     |                                     | TAs        |
-|      | Tues Mar 4   | Probaility                                 | Homework #8 due Mar 18             | Vishesh    |
-|      | Thurs Mar 6  | Random Variables I                         | Homework #8 due Mar 18             | Vishesh    |
+|      | Tues Mar 4   | Probability I                                | Homework #8 due Mar 18             | Vishesh    |
+|      | Thurs Mar 6  | Probability II                        | Homework #8 due Mar 18             | Vishesh    |
 | 9    | Mon Mar 10   | No Lab: Spring Break                     |                                     |            |
 |      | Tues Mar 11  | No Lecture: Spring Break                 | Homework #8 due Mar 18             |            |
 |      | Thurs Mar 13 | No Lecture: Spring Break                 | Homework #8 due Mar 18             |            |
 | 10   | Mon Mar 17   | Lab: Probability                         |                                     | TAs        |
-|      | Tues Mar 18  | Random Variables II                      | Homework #9 due Mar 25             | Vishesh    |
-|      | Thurs Mar 20 | Random Variables III                     | Homework #9 due Mar 25             | Vishesh    |
+|      | Tues Mar 18  | Random Variables I                      | Homework #9 due Mar 25             | Vishesh    |
+|      | Thurs Mar 20 | Random Variables II                     | Homework #9 due Mar 25             | Vishesh    |
 | 11   | Mon Mar 24   | Lab: Random Variables                   |                                     | TAs        |
 |      | Tues Mar 25  | Introduction to Graphs                   | Homework #10 due Apr 1             | Vishesh    |
 |      | Thurs Mar 27 | Trees                                    | Homework #10 due Apr 1             | Vishesh    |
