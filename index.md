@@ -46,7 +46,7 @@ layout: home
 |      | Tues Feb 25  | [Weak Induction II](assets/files/Lecture227.pdf)| Homework #7 due Mar 4              | Vishesh    |
 |      | Thurs Feb 27 | [Strong Induction](assets/files/Lecture227.pdf)| Homework #7 due Mar 4              | Vishesh    |
 | 8    | Mon Mar 3    | Lab: Strong Induction                     |                                     | TAs        |
-|      | Tues Mar 4   | Probability I                                | Homework #8 due Mar 18             | Vishesh    |
+|      | Tues Mar 4   | [Probability I](assets/files/Lecture34.pdf)| Homework #8 due Mar 18             | Vishesh    |
 |      | Thurs Mar 6  | Probability II                        | Homework #8 due Mar 18             | Vishesh    |
 | 9    | Mon Mar 10   | No Lab: Spring Break                     |                                     |            |
 |      | Tues Mar 11  | No Lecture: Spring Break                 | Homework #8 due Mar 18             |            |
