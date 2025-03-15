@@ -54,7 +54,7 @@ layout: home
 | 10   | Mon Mar 17   | Lab: Probability                         |                                     | TAs        |
 |      | Tues Mar 18  | Probability III                      | Homework #8 due Mar 25             | Vishesh    |
 |      | Thurs Mar 20 | Random Variables I                  | Homework #8 due Mar 25             | Vishesh    |
-| 11   | Mon Mar 24   | Lab: Probability                   |                                     | TAs        |
+| 11   | Mon Mar 24   | Lab: Conditional Probability                   |                                     | TAs        |
 |      | Tues Mar 25  | Random Variables II                   | Homework #9 due Apr 1             | Vishesh    |
 |      | Thurs Mar 27 | Exam #2 Review Session                                    | Homework #9 due Apr 1             | TAs    |
 | 12   | Mon Mar 31   | Lab: Exam #2 Review                     |                                     | TAs        |
