@@ -52,7 +52,7 @@ layout: home
 |      | Tues Mar 11  | No Lecture: Spring Break                 | Homework #7 due Mar 18             |            |
 |      | Thurs Mar 13 | No Lecture: Spring Break                 | Homework #7 due Mar 18             |            |
 | 10   | Mon Mar 17   | Lab: Probability                         |                                     | TAs        |
-|      | Tues Mar 18  | Probability III                      | Homework #8 due Mar 25             | Vishesh    |
+|      | Tues Mar 18  | [Probability III](assets/files/Lecture318.pdf)| Homework #8 due Mar 25             | Vishesh    |
 |      | Thurs Mar 20 | Random Variables I                  | Homework #8 due Mar 25             | Vishesh    |
 | 11   | Mon Mar 24   | Lab: Conditional Probability                   |                                     | TAs        |
 |      | Tues Mar 25  | Random Variables II                   | Homework #9 due Apr 1             | Vishesh    |
