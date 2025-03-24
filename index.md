@@ -53,7 +53,7 @@ layout: home
 |      | Thurs Mar 13 | No Lecture: Spring Break                 | Homework #7 due Mar 18             |            |
 | 10   | Mon Mar 17   | Lab: Probability                         |                                     | TAs        |
 |      | Tues Mar 18  | [Probability III](assets/files/Lecture318.pdf)| Homework #8 due Mar 25             | Vishesh    |
-|      | Thurs Mar 20 | Random Variables I                  | Homework #8 due Mar 25             | Vishesh    |
+|      | Thurs Mar 20 | [Random Variables I](assets/files/Lecture321.pdf) [RECORDING](https://upenn.zoom.us/rec/share/3LSW_Jubw7QWNvLFZU3TR2rLi8xnP8S9Qf5cTNjtlSYpyatsR6ol_O1p2S3U-Vup.Lbz6uWD85gnnLsmc) Passcode:V&aD=z5?| Homework #8 due Mar 25             | Vishesh    |
 | 11   | Mon Mar 24   | Lab: Conditional Probability                   |                                     | TAs        |
 |      | Tues Mar 25  | Random Variables II                   | Homework #9 due Apr 1             | Vishesh    |
 |      | Thurs Mar 27 | Exam #2 Review Session                                    | Homework #9 due Apr 1             | TAs    |
