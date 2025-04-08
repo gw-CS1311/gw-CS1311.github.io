@@ -59,7 +59,7 @@ layout: home
 |      | Thurs Mar 27 | Exam #2 Review Session                                    | Homework #9 due Apr 1             | TAs    |
 | 12   | Mon Mar 31   | Lab: Exam #2 Review                     |                                     | TAs        |
 |      | Tues Apr 1   | Exam #2: Probability & Induction            |                                     | TAs/Vishesh|
-|      | Thurs Apr 3  | Introduction to Graphs                                  |                                     | Vishesh        |
+|      | Thurs Apr 3  | [Introduction to Graphs](assets/files/Lecture43.pdf)|                         | Vishesh        |
 | 13   | Mon Apr 7    | Lab: Exam #2 Feedback                    |                                     | TAs        |
 |      | Tues Apr 8   | Graphs & Trees                           | Homework #10 due Apr 15            | Vishesh    |
 |      | Thurs Apr 10 | Hamiltonian Cycles and Eulerian Circuits | Homework #10 due Apr 15            | Vishesh    |
