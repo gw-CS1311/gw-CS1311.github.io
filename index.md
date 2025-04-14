@@ -61,8 +61,8 @@ layout: home
 |      | Tues Apr 1   | Exam #2: Probability & Induction            |                                     | TAs/Vishesh|
 |      | Thurs Apr 3  | [Introduction to Graphs](assets/files/Lecture43.pdf)|                         | Vishesh        |
 | 13   | Mon Apr 7    | Lab: Exam #2 Feedback                    |                                     | TAs        |
-|      | Tues Apr 8   | Graphs & Trees                           | Homework #10 due Apr 15            | Vishesh    |
-|      | Thurs Apr 10 | Hamiltonian Cycles and Eulerian Circuits | Homework #10 due Apr 15            | Vishesh    |
+|      | Tues Apr 8   | [Graphs & Trees](assets/files/Lecture38.pdf)                           | Homework #10 due Apr 15            | Vishesh    |
+|      | Thurs Apr 10 | [Hamiltonian Cycles and Eulerian Circuits](assets/files/Lecture310.pdf) | Homework #10 due Apr 15            | Vishesh    |
 | 14   | Mon Apr 14   | Lab: Advanced Graph Theory               |                                     | TAs        |
 |      | Tues Apr 15  | Graph Coloring                            | Homework #11 due Apr 22            | Vishesh    |
 |      | Thurs Apr 17 | Matchings                              | Homework #11 due Apr 22            | Vishesh    |
