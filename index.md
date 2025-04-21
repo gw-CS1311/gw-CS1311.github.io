@@ -65,7 +65,7 @@ layout: home
 |      | Thurs Apr 10 | [Hamiltonian Cycles and Eulerian Circuits](assets/files/Lecture310.pdf) | Homework #10 due Apr 15            | Vishesh    |
 | 14   | Mon Apr 14   | Lab: Advanced Graph Theory               |                                     | TAs        |
 |      | Tues Apr 15  | [Graph Coloring](assets/files/Lecture415.pdf)  | Homework #11 due Apr 22            | Vishesh    |
-|      | Thurs Apr 17 | Matchings                              | Homework #11 due Apr 22            | Vishesh    |
+|      | Thurs Apr 17 | [Matchings](assets/files/Lecture417.pdf)                              | Homework #11 due Apr 22            | Vishesh    |
 | 15   | Mon Apr 21   | Lab: Graph Coloring                      |                                     | TAs        |
 |      | Tues Apr 22  | Relations                               | Homework #12 due Apr 29            | Vishesh    |
 |      | Thurs Apr 24 | Relations II                             | Homework #12 due Apr 29            | Vishesh    |
