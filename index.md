@@ -62,14 +62,14 @@ layout: home
 |      | Thurs Apr 3  | [Introduction to Graphs](assets/files/Lecture43.pdf)|                         | Vishesh        |
 | 13   | Mon Apr 7    | Lab: Exam #2 Feedback                    |                                     | TAs        |
 |      | Tues Apr 8   | [Graphs & Trees](assets/files/Lecture38.pdf)                           | Homework #10 due Apr 15            | Vishesh    |
-|      | Thurs Apr 10 | [Hamiltonian Cycles and Eulerian Circuits](assets/files/Lecture310.pdf) | Homework #10 due Apr 15            | Vishesh    |
+|      | Thurs Apr 10 | [Advanced Graph Theory](assets/files/Lecture310.pdf) | Homework #10 due Apr 15            | Vishesh    |
 | 14   | Mon Apr 14   | Lab: Advanced Graph Theory               |                                     | TAs        |
-|      | Tues Apr 15  | [Graph Coloring](assets/files/Lecture415.pdf)  | Homework #11 due Apr 22            | Vishesh    |
-|      | Thurs Apr 17 | [Matchings](assets/files/Lecture417.pdf)                              | Homework #11 due Apr 22            | Vishesh    |
+|      | Tues Apr 15  | [Directed Graphs](assets/files/Lecture415.pdf)  | Homework #11 due Apr 22            | Vishesh    |
+|      | Thurs Apr 17 | [Directed Graphs II](assets/files/Lecture417.pdf)                              | Homework #11 due Apr 22            | Vishesh    |
 | 15   | Mon Apr 21   | Lab: Graph Coloring                      |                                     | TAs        |
-|      | Tues Apr 22  | [Relations](assets/files/Lecture422.pdf)                               | Homework #12 due Apr 29            | Vishesh    |
-|      | Thurs Apr 24 | Relations II                             | Homework #12 due Apr 29            | Vishesh    |
+|      | Tues Apr 22  | [Graph Coloring](assets/files/Lecture422.pdf)                               | Homework #12 due Apr 29            | Vishesh    |
+|      | Tues Apr 29 | Graph Coloring II                              | Homework #12 due Apr 29            | Vishesh    |
 | 16   | Mon Apr 28   | Lab: Final Review Session                |                                     | TAs        |
-| TBD  | May 3 - 9    | Final Exam                               |                                     | TAs        |
+| TBD  | May 6: 3 - 5 PM   | Final Exam                               |                                     | TAs        |
 
 </div>
