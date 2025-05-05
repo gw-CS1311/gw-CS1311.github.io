@@ -67,8 +67,8 @@ layout: home
 |      | Tues Apr 15  | [Directed Graphs](assets/files/Lecture415.pdf)  | Homework #11 due Apr 22            | Vishesh    |
 |      | Thurs Apr 17 | [Directed Graphs II](assets/files/Lecture417.pdf)                              | Homework #11 due Apr 22            | Vishesh    |
 | 15   | Mon Apr 21   | Lab: Graph Coloring                      |                                     | TAs        |
-|      | Tues Apr 22  | [Graph Coloring](assets/files/Lecture422.pdf)                               | Homework #12 due May 2           | Vishesh    |
-|      | Thurs Apr 24 | Final Lecture: Graph Review                             | Homework #12 due Apr 29            | Vishesh    |
+|      | Tues Apr 22  | [Relations](assets/files/Lecture422.pdf)                               | Homework #12 due May 2           | Vishesh    |
+|      | Thurs Apr 24 | Relations II                             | Homework #12 due Apr 29            | Vishesh    |
 | 16   | Mon Apr 28   | Lab: Final Review Session                |                                     | TAs        |
 | TBD  | May 6: 3 - 5 PM   | Final Exam                               |                                     | TAs        |
 
